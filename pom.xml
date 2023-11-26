@@ -6,7 +6,7 @@
 
     <groupId>me.ebonjaeger</groupId>
     <artifactId>perworldinventory-kt</artifactId>
-    <version>2.3.2</version>
+    <version>2.3.3</version>
 
     <name>PerWorldInventory</name>
     <description>Have a different inventory for each world.</description>
@@ -56,7 +56,7 @@
 
         <repository>
             <id>bstats-repo</id>
-            <url>https://repo.codemc.org/repository/maven-public</url>
+            <url>https://repo.codemc.io/service/rest/repository/browse/maven-public/</url>
         </repository>
 
         <repository>
@@ -82,7 +82,7 @@
         <dependency>
             <groupId>co.aikar</groupId>
             <artifactId>acf-paper</artifactId>
-            <version>0.5.0-SNAPSHOT</version>
+            <version>0.5.1-SNAPSHOT</version>
         </dependency>
 
         <!-- Spigot -->
